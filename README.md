@@ -4,9 +4,12 @@
 
 * Company: **JaperAI**
 
-[website](jasper.ai)
+[website](https://www.jasper.ai/)
 
 * When was the company incorporated?
+
+> Quote : "The world is great"
+
 
 * Who are the founders of the company?
 
