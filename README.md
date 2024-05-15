@@ -2,7 +2,9 @@
 
 ## Overview and Origin
 
-* Name of company
+* Company: **JaperAI**
+
+[website](jasper.ai)
 
 * When was the company incorporated?
 
